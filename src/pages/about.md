@@ -33,8 +33,8 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
-    has_background: true
-    background_color: blue
+    # has_background: true
+    # background_color: blue
   - title: lorem-ipsum
     show_recent: false
     recent_count: 0
